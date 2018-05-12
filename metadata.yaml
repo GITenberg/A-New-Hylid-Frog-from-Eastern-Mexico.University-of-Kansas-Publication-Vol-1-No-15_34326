@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36954'
     url: http://www.gutenberg.org/2009/agents/36954
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34326#A-New-Hylid-Frog-from-Eastern-Mexico.University-of-Kansas-Publication-Vol-1-No-15
 gutenberg_bookshelf:
 - Animals-Wild-Reptiles and Amphibians
 - Animal
