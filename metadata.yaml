@@ -1,0 +1,33 @@
+_repo: A-New-Hylid-Frog-from-Eastern-Mexico.University-of-Kansas-Publication-Vol-1-No-15_34326
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, Edward Harrison
+    alias: Taylor, Edward H. (Edward Harrison)
+    birthdate: 1889
+    deathdate: 1978
+    gutenberg_agent_id: '36954'
+    url: http://www.gutenberg.org/2009/agents/36954
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2010-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34326'
+  lccn: '48047714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hyla proboscidea'
+- !lcc 'QH'
+title: 'A New Hylid Frog from Eastern Mexico.
+
+  University of Kansas Publication, Vol 1, No 15'
+url: http://www.gutenberg.org/ebooks/34326
